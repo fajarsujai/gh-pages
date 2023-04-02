@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sosmed:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-02T05:17:51.141442853Z"
+    description: A Helm chart for Kubernetes
+    digest: 30d9a9ccb22ff4da079fe43399ccbcf0ee4e5210ea3f7c7282f671c1db770e0b
+    name: sosmed
+    type: application
+    urls:
+    - sosmed-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-02T05:17:51.112147139Z"
